@@ -16,4 +16,4 @@
   - [Benchling](https://benchling.com/organizations/sheffield-igem-org/projects) (Lab Notebook)
 
 ## Things to Remember
-  1. _Document Everything!_ (On GitHub, Benchling, or Drive)
+  1. Document Everything! (On GitHub, Benchling, or Drive)
