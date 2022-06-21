@@ -12,7 +12,10 @@
   - [GitHub](https://github.com/Sheffield-iGE) (Project Management & Version Control)
   - [Discord](https://discord.com/) (Communication)
   - [Google Drive](https://drive.google.com/drive/folders/1sD1bD9UrkkSGeveWWOakBoRYhV-_1F-S?usp=sharing) (File Sharing & Collaboration)
-  - [ResearchRabbit](https://www.researchrabbitapp.com/collection/public/4DLWDWJ16E) (Literature Searching)
+  - ResearchRabbit (Literature Searching)
+    - [Directed Evolution](https://www.researchrabbitapp.com/collection/public/4DLWDWJ16E)
+    - [Lactose Production](???)
+    - [Dry Lab](https://www.researchrabbitapp.com/collection/public/52Z80J8264) 
   - [Benchling](https://benchling.com/organizations/sheffield-igem-org/projects) (Lab Notebook)
 
 ## Things to Remember
