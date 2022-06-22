@@ -14,7 +14,7 @@
   - [Google Drive](https://drive.google.com/drive/folders/1sD1bD9UrkkSGeveWWOakBoRYhV-_1F-S?usp=sharing) (File Sharing & Collaboration)
   - ResearchRabbit (Literature Searching)
     - [Directed Evolution](https://www.researchrabbitapp.com/collection/public/4DLWDWJ16E)
-    - [Lactose Production](???)
+    - [Lactose Production](https://www.researchrabbitapp.com/collection/public/52Z80J0464)
     - [Dry Lab](https://www.researchrabbitapp.com/collection/public/52Z80J8264) 
   - [Benchling](https://benchling.com/organizations/sheffield-igem-org/projects) (Lab Notebook)
 
