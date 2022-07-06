@@ -3,7 +3,7 @@
 ## Subteams
   - **Logistics**
   - **Design & Media**
-  - **Dry Lab**
+  - **Dry Lab / Bioreactor**
   - **Directed Evolution**
   - **Lactose Production**
   - **Outreach**
